@@ -11,6 +11,3 @@ Conversão de moedas com utilização da ExchangeRate-API
 Java 17
 InteliJ IDEA
 Paradigma de orientação a objetos
-
-
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
